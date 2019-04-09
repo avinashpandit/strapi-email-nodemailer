@@ -1,6 +1,6 @@
-# strapi-email-nodemailer-fork
+# strapi-email-nodemailer-with-enhancements
 
-Fork of "strapi-email-nodemailer" with added attacments support.
+Fork of "strapi-email-nodemailer" with added attacments and cc support.
 
 Made by [Automat-IT](https://www.automat-it.com/)
 
@@ -17,5 +17,5 @@ Made by [Automat-IT](https://www.automat-it.com/)
 ## Installation
 
 ```bash
-npm i strapi-email-nodemailer-fork
+npm i strapi-email-nodemailer-with-enhancements
 ```
