@@ -1,13 +1,13 @@
 {
-  "name": "strapi-email-nodemailer-fork",
-  "version": "1.0.1",
-  "description": "Nodemailer provider for strapi email with attacments support",
-  "homepage": "http://www.automat-it.com",
+  "name": "strapi-email-nodemailer-with-enhancements",
+  "version": "1.0",
+  "description": "Nodemailer provider for strapi email with enhancements - attacments , cc support ",
+  "homepage": "http://coinagg.com",
   "keywords": [
     "email",
     "strapi",
     "nodemailer",
-    "automat-it"
+    "coinagg"
   ],
   "directories": {
     "lib": "./lib"
@@ -20,9 +20,9 @@
     "isProvider": true
   },
   "author": {
-    "name": "Yurii Tykhomyrov",
-    "email": "yuriytihomirov@gmail.com",
-    "url": "https://github.com/yutikom"
+    "name": "Avinash Pandit",
+    "email": "avinashpandit@gmail.com",
+    "url": "https://github.com/avinashpandit"
   },
   "maintainers": [
     {
@@ -34,14 +34,19 @@
       "name": "Yurii Tykhomyrov",
       "email": "yuriytihomirov@gmail.com",
       "url": "https://github.com/yutikom"
+    },
+    {
+      "name": "Avinash Pandit",
+      "email": "avinashpandit@gmail.com",
+      "url": "https://github.com/avinashpandit"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/yutikom/strapi-email-nodemailer.git"
+    "url": "git://github.com/avinashpandit/strapi-email-nodemailer.git"
   },
   "bugs": {
-    "url": "https://github.com/yutikom/strapi-email-nodemailer/issues"
+    "url": "https://github.com/avinashpandit/strapi-email-nodemailer/issues"
   },
   "engines": {
     "node": ">= 9.0.0",
