@@ -1,6 +1,6 @@
 {
   "name": "strapi-email-nodemailer-with-enhancements",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Nodemailer provider for strapi email with enhancements - attacments , cc support ",
   "homepage": "http://coinagg.com",
   "keywords": [
